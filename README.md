@@ -6,8 +6,6 @@ All of the magic is in the groups, so make sure to look what's inside them. I ad
 
 Feel free to use the stuff I made, but do drop me a credit if you do so.
 
-If needed I can provide clarification.
-
 Credits for tutorials:
 
 * tripplejaz - clip studio paint tutorial for getting retro anime look, this one was crucial for setting up the compositing
