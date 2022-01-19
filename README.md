@@ -19,6 +19,7 @@ Credits for tutorials:
 * tripplejaz - clip studio paint tutorial for getting retro anime look, this one was crucial for setting up the compositing
 * veryveig - 90's Anime in Blender, great study on makes it tick
 * DnBsyn - his comment on veryveig video about lineart color bleed was the cherry on top
+* PhillWorks - Amazing study on colors used by the biggest names in anime industry https://twitter.com/phillworks/status/1265715231688278016?s=20
 * Louis du Mont - bird flock
 * The Daily Show with CG - flag simulation
 * Kristof Dedene - grass and skybox
