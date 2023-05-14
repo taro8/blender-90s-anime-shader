@@ -16,12 +16,12 @@ Feel free to use the stuff I made, but do drop me a credit if you do so.
 
 Credits for tutorials:
 
-* tripplejaz - clip studio paint tutorial for getting retro anime look, this one was crucial for setting up the compositing
-* veryveig - 90's Anime in Blender, great study on makes it tick
-* DnBsyn - his comment on veryveig video about lineart color bleed was the cherry on top
+* tripplejaz - clip studio paint tutorial for getting retro anime look, this one was crucial for setting up the compositing https://www.youtube.com/watch?v=3uG2TzYMbRc
+* veryveig - 90's Anime in Blender, great study on makes it tick https://www.youtube.com/watch?v=ZsvZsVPhTVs
+* DnBsyn - his comment on veryveig video about lineart color bleed was the cherry on top https://www.youtube.com/watch?v=ZsvZsVPhTVs&lc=UgzSRQZoGB54Ya6lBCl4AaABAg
 * PhillWorks - Amazing study on colors used by the biggest names in anime industry https://twitter.com/phillworks/status/1265715231688278016?s=20
-* Louis du Mont - bird flock
-* The Daily Show with CG - flag simulation
-* Kristof Dedene - grass and skybox
-* LanceBeryl․Dev - also grass
-* Lightning Boy Studio - the base setup for the trees
+* Louis du Mont - bird flock https://www.youtube.com/watch?v=kQque9hD1Cg
+* The Daily Show with CG - flag simulation https://www.youtube.com/watch?v=kihtLrCXCtQ
+* Kristof Dedene - grass and skybox https://www.youtube.com/watch?v=m4aOZm6auxQ , https://www.youtube.com/watch?v=6hyztL8btlY
+* LanceBeryl․Dev - also grass https://www.youtube.com/watch?v=zjKKZL03HNs
+* Lightning Boy Studio - the base setup for the trees https://www.youtube.com/watch?v=DEgzuMmJtu8
